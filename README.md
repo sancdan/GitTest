@@ -1,2 +1,0 @@
-# GitTest
-Teszt repo
